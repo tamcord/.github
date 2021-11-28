@@ -14,9 +14,9 @@
   </a>
 </p>
 
-### [About](https://fosscord.com/)
+### [About](https://tamcord.com/)
 
-Fosscord is a **f**ree **o**pen **s**ource selfhostable dis**cord** compatible chat, voice and video platform
+**Tamcord** is a copy of fosscord.
 
 * **Discord-compatible** (Communicate with all friends who are "still" using discord.com)
 * **Selfhostable** ([Download Server](https://github.com/fosscord/fosscord-server/releases))
@@ -28,12 +28,10 @@ Fosscord is a **f**ree **o**pen **s**ource selfhostable dis**cord** compatible c
 * **Encrypted** (End to end encryption for secure and private conversation)
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
 
-Logo by [@nwlandas](https://twitter.com/nwlandas).
-
 ### Installation
 
 * Client coming soon
-* [Server](https://github.com/fosscord/fosscord-server/releases) (very early pre release)
+* [Server](https://github.com/tamcord/tamcord-server/releases) (very early pre release)
 
 ### Support
 
@@ -56,19 +54,3 @@ If we are finished we'll host our own support server.
 This project is only possible by volunteers like you and me, your contribution is very much appreciated.
 
 If you would like to contribute then [read this guide](https://docs.fosscord.com/contributing/server/).
-
-### License
-
-Copyright (C) 2021 Fosscord and Fosscord Contributors
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as
-published by the Free Software Foundation version 3 of the
-License
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see https://www.gnu.org/licenses/agpl-3.0.de.html
