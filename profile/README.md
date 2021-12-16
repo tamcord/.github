@@ -16,10 +16,10 @@
 
 ### [About](https://tamcord.com/)
 
-**Tamcord** is a copy of fosscord.
+**Tamcord** is a copy of [fosscord](https://github.com/fosscord/fosscord).
 
 * **Discord-compatible** (Communicate with all friends who are "still" using discord.com)
-* **Selfhostable** ([Download Server](https://github.com/fosscord/fosscord-server/releases))
+* **Selfhostable** ([Download Server](https://github.com/tamcord/tamcord-server/releases))
 * **Open Source** ([GitHub Organization]())
 * **Configurable** (Configure every aspect and limits to your needs)
 * **Decentralized** (no abuse of power and doesn't have a single point of failure)
@@ -44,13 +44,8 @@ If we are finished we'll host our own support server.
 
 | Repo name | Brief description |
 | :--- | :--- |
-| [Server](https://github.com/fosscord/fosscord-Server) | Fosscord API + Gateway + CDN Server + WebRTC + Admin Dashboard |
-| [Client](https://github.com/fosscord/fosscord-client) | Fosscord Client compatible with fosscord-server and discord.com |
+| [Server](https://github.com/tamcord/tamcord-server) | Tamcord API + Gateway + CDN Server + WebRTC + Admin Dashboard |
+| [Client](https://github.com/fosscord/fosscord-client) | Tamcord Client compatible with tamcord-server/fosscord and discord.com |
 | [UI](https://github.com/fosscord/fosscord-ui) | Open Source CSS framework in the style of Discord |
-| [Docs](https://github.com/fosscord/fosscord-docs) | Documentation of Fosscord |
+| [Docs](https://github.com/tamcord/tamcord-docs) | Documentation of Tamcord |
 
-### Contribute
-
-This project is only possible by volunteers like you and me, your contribution is very much appreciated.
-
-If you would like to contribute then [read this guide](https://docs.fosscord.com/contributing/server/).
